@@ -42,3 +42,5 @@ conda env export > conda.yaml
 curl -X POST -H "Content-Type:application/json; format=pandas-split" --data '{"columns":["alcohol", "chlorides", "c
 
 ```
+
+#Or use Thunder client extension on VSCode or use PostMan
